@@ -1,0 +1,68 @@
+@media only screen and (max-width:1200px){
+    .eg-child{
+        justify-content: center;
+        align-items: center;
+    }
+    .egcontxt{
+        width: auto;
+    }
+    .egcontxt div{
+        padding: 100px 150px;
+    }
+    .egcon{
+        width: 100%;
+    }
+    .sec-4-im{  
+        width: auto;
+        bottom: 200px;
+        padding: 0 80px;
+    }
+    .sec-4-im h2{
+        font-size:65px;
+    }
+    .sec-4-im p{
+        font-size:30px;
+    }
+    .client-re>div{
+        justify-content: center;
+    }
+    .txt-con p{
+        font-size: 65px;
+    }
+    .txt-con img{
+        width: 70px;
+    }
+}
+@media only screen and (max-width:875px){
+    .sec-4-im{
+        bottom: 72px;
+    }
+    .sec-4-im p h2{
+        font-size: 5rem;
+
+    }
+    .sec-4-im p{
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width:660px){
+    .sec-4-im{
+        bottom: 20px;
+    }
+    .sec-4-im h2{
+        font-size: 2rem;
+
+    }
+    .sec-4-im p{
+        font-size: 10px;
+    }
+    .egcontxt div{
+        padding: 80px 50px;
+    }
+    .client{
+        margin-bottom: 50px;
+    }
+    .client-re{
+        padding: 5px 5px;
+    }
+}
