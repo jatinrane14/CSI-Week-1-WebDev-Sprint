@@ -23,14 +23,16 @@
     .sec-4-im p{
         font-size:30px;
     }
-    .client-re>div{
-        justify-content: center;
-    }
     .txt-con p{
         font-size: 65px;
     }
     .txt-con img{
         width: 70px;
+    }
+}
+@media only screen and (max-width:1220px){
+    .client-re>div{
+        justify-content: center;
     }
 }
 @media only screen and (max-width:875px){
