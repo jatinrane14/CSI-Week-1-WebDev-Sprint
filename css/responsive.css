@@ -34,6 +34,9 @@
     .client-re>div{
         justify-content: center;
     }
+    .egcontxt div{
+        padding: 100px 100px;
+    }
 }
 @media only screen and (max-width:875px){
     .sec-4-im{
