@@ -226,10 +226,6 @@ h2{
 }
 .client-re>div{
     display: flex;
-    align-items: center;
-}
-.client-re>div{
-    display: flex;
     flex-wrap: wrap;
     justify-content:space-between;
     align-items: center;
