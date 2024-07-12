@@ -226,6 +226,7 @@ h2{
 }
 .client-re>div{
     display: flex;
+    align-items: center;
 }
 .client-re>div{
     display: flex;
